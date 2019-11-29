@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigation_graoh"
+    app:startDestination="@id/uiFragment">
+
+    <fragment
+        android:id="@+id/uiFragment"
+        android:name="ex.mr.marionette.UiFragment"
+        android:label="ui_fragment"
+        tools:layout="@layout/ui_fragment" />
+    <fragment
+        android:id="@+id/toolFragment"
+        android:name="ex.mr.marionette.ToolFragment"
+        android:label="tool_fragment"
+        tools:layout="@layout/tool_fragment" />
+    <fragment
+        android:id="@+id/otherFragment"
+        android:name="ex.mr.marionette.OtherFragment"
+        android:label="other_fragment"
+        tools:layout="@layout/other_fragment" />
+</navigation>

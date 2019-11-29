@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/uiFragment"
+        android:title="UI"
+        android:icon="@drawable/ui"/>
+    <item
+        android:id="@+id/toolFragment"
+        android:title="Tool"
+        android:icon="@drawable/tool"/>
+    <item
+        android:id="@+id/otherFragment"
+        android:title="Other"
+        android:icon="@drawable/other"/>
+</menu>
