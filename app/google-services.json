@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "321052617884",
+    "firebase_url": "https://testapp-bb31a.firebaseio.com",
+    "project_id": "testapp-bb31a",
+    "storage_bucket": "testapp-bb31a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321052617884:android:948732a5704fc29aefd159",
+        "android_client_info": {
+          "package_name": "ex.mr.marionette"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "321052617884-pu6nejrncp90lmdq2mggcggvfd11665t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBervMfElBYwdm-pQNiFNIo8g-hPXcRxLY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "321052617884-pu6nejrncp90lmdq2mggcggvfd11665t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
